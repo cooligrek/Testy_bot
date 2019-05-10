@@ -1,1 +1,1 @@
-worker: java Testy.java
+worker: java testyBot
