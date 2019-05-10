@@ -1,1 +1,1 @@
-worker: node Testy.java
+worker: java Testy.java
